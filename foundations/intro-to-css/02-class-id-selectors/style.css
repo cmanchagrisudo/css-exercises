@@ -1,1 +1,11 @@
 /* Add CSS Styling */
+.odds {
+    background-color: #ffc0cb;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#two {
+    color: red;
+    font-size: 106px;
+    background-color: yellowgreen;
+}
