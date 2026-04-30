@@ -11,7 +11,17 @@ This will help you further practice adding classes and using class selectors, so
 ## Desired Outcome
 
 ![desired outcome](./desired-outcome.png)
+“nada para hacer commit, el árbol de trabajo está limpio”
 
+significa que Git está tipo zen 🧘‍♂️
+no hay cambios, todo está exactamente igual a tu último commit.
+
+🔴 Entonces… ¿por qué no ves decorations?
+Porque las decoraciones de Git en Visual Studio Code solo aparecen cuando hay cambios:
+
+🟢 verde → archivo nuevo
+
+🟡/🟠 → modificado
 ### Self Check
 
 - Does each element have a unique class name?
